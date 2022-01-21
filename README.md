@@ -12,6 +12,5 @@ Live API available at [XXXXXX](tbc)
 /divide
 /floor_division
 /remainder
-/sqrt
+/nroot
 /power
-networkx [link](https://networkx.org/)
